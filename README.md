@@ -50,7 +50,7 @@ This repository contains the data analysis, business intelligence dashboards, an
 * `/Reports/` - Executive summaries and detailed documentation (MS Word/PDF).
 
 ## 🚀 How to View
-**Interactive Dashboard:** 🌐 [Click here to view the live Teachnook dashboard]([PASTE_YOUR_LINK_HERE](https://app.powerbi.com/view?r=eyJrIjoiMzEwMTBiYzAtNjUyNi00ZWZlLThiMTMtODA0YzVjZmZlNjc0IiwidCI6Ijg5OWM1ZDljLTVmMjUtNDFmZS05YWVjLTdjYWI1MGY4YTQ4ZiJ9))
+**Interactive Dashboard:** 🌐 [Click here to view the live Teachnook dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzEwMTBiYzAtNjUyNi00ZWZlLThiMTMtODA0YzVjZmZlNjc0IiwidCI6Ijg5OWM1ZDljLTVmMjUtNDFmZS05YWVjLTdjYWI1MGY4YTQ4ZiJ9)
 1. Clone the repository: `git clone https://github.com/yourusername/Teachnook-EdTech-Data-Analysis.git`
 2. Open the `/Dashboards/` folder to view the Power BI file. Note: You must have [Power BI Desktop](https://powerbi.microsoft.com/desktop/) installed to interact with the `.pbix` file.
 3. Review the executive summary in the `/Reports/` folder for a detailed breakdown of the business insights.
